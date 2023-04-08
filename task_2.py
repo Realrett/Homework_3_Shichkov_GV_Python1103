@@ -14,7 +14,7 @@
 # Введите второе число: 10
 # 1.0
 
-# Process finished with exit code 0
+# Process finished with exit code 0**
 
 def calculator (number_1, number_2):
     try:
