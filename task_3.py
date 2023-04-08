@@ -11,4 +11,4 @@ def information(name, surname, year, home, email, telephone):
     return(name, surname, year, home, email, telephone)
 
 print(information(input('Введите имя: '), input('Введите фамилию: '), input('Введите год рождения: '), input('Введите город проживания: '), 
-input('Введите e-mail: '), input('Введите номер телефона: ')))
+                  input('Введите e-mail: '), input('Введите номер телефона: ')))
