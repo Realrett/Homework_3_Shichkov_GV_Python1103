@@ -25,5 +25,5 @@ def calculator (number_1, number_2):
     except ValueError:
         print('Вводите только числа!')
 
-print(calculator(int(input("Введите первое число: ")), int(input("Введите второе число: "))))
+print(calculator(int(input("Введите первое число: ")), int(input("Введите второе число: "))))2
 
